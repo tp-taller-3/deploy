@@ -5,7 +5,7 @@ import { mockShellExecution } from "../../mocks/models/Shell";
 describe("GitManager", () => {
   const repositoryConfig = {
     location: "./directory",
-    branch: "master",
+    branch: "main",
     url: "https://github.com/organization-name/repository-name.git"
   };
 

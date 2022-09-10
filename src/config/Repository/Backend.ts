@@ -23,7 +23,7 @@ export const BackendConfig = {
     gitRepository: {
       url: "https://github.com/organization-name/repository-name.git",
       location: "./directory",
-      branch: "master"
+      branch: "main"
     }
   }
 }[Environment.NODE_ENV()];

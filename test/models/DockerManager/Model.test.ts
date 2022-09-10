@@ -6,7 +6,7 @@ describe("DockerManager", () => {
   const attributes = {
     repositoryConfig: {
       location: "./directory",
-      branch: "master",
+      branch: "main",
       url: "https://github.com/organization-name/repository-name.git"
     },
     containerName: "someContainerName",
