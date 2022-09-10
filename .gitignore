@@ -2,12 +2,12 @@
 node_modules
 
 # repositories
-fiuba-laboral-v2/front-end
+fiuba-course-admin/front-end
 
 # production
 build
 dist
-fiuba-laboral-v2
+fiuba-course-admin
 front-end
 coverage
 test/coverage

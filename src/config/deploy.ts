@@ -10,9 +10,9 @@ export const DeployConfig = {
   },
   staging: {
     hostname: "antiguos.fi.uba.ar",
-    frontendPath: "/laboral",
-    sshAddress: "laboral@antiguos.fi.uba.ar",
-    user: "laboral"
+    frontendPath: "/course-admin",
+    sshAddress: "course-admin@antiguos.fi.uba.ar",
+    user: "course-admin"
   },
   test: {
     hostname: "test.fi.uba.ar",

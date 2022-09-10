@@ -19,7 +19,7 @@ describe("FrontendManager", () => {
     ).toEqual(
       "cd ./directory && " +
       "yarn install && " +
-      "REACT_APP_STAGE=test PUBLIC_URL=http://test.fi.uba.ar/laboral yarn build"
+      "REACT_APP_STAGE=test PUBLIC_URL=http://test.fi.uba.ar/course-admin yarn build"
     );
   });
 });

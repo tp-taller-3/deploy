@@ -3,18 +3,18 @@ import { InvalidNodeEnvVariableError } from "../../models/Errors";
 
 export const BackendConfig = {
   production: {
-    containerName: "fiuba-laboral-v2-backend",
+    containerName: "fiuba-course-admin-backend",
     gitRepository: {
-      url: "https://github.com/fiuba-laboral-v2/back-end.git",
-      location: "~/fiuba-laboral-v2/back-end",
+      url: "https://github.com/fiuba-course-admin/back-end.git",
+      location: "~/fiuba-course-admin/back-end",
       branch: "production"
     }
   },
   staging: {
-    containerName: "fiuba-laboral-v2-backend",
+    containerName: "fiuba-course-admin-backend",
     gitRepository: {
-      url: "https://github.com/fiuba-laboral-v2/back-end.git",
-      location: "~/fiuba-laboral-v2/back-end",
+      url: "https://github.com/fiuba-course-admin/back-end.git",
+      location: "~/fiuba-course-admin/back-end",
       branch: "staging"
     }
   },

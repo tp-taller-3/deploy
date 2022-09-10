@@ -5,21 +5,21 @@ export const FrontendConfig = {
   production: {
     publicUrl: "https://bolsadetrabajo.fi.uba.ar/",
     gitRepository: {
-      url: "https://github.com/fiuba-laboral-v2/front-end.git",
-      location: "./fiuba-laboral-v2/front-end",
+      url: "https://github.com/fiuba-course-admin/front-end.git",
+      location: "./fiuba-course-admin/front-end",
       branch: "production"
     }
   },
   staging: {
-    publicUrl: "http://antiguos.fi.uba.ar/laboral",
+    publicUrl: "http://antiguos.fi.uba.ar/course-admin",
     gitRepository: {
-      url: "https://github.com/fiuba-laboral-v2/front-end.git",
-      location: "./fiuba-laboral-v2/front-end",
+      url: "https://github.com/fiuba-course-admin/front-end.git",
+      location: "./fiuba-course-admin/front-end",
       branch: "staging"
     }
   },
   test: {
-    publicUrl: "http://test.fi.uba.ar/laboral",
+    publicUrl: "http://test.fi.uba.ar/course-admin",
     gitRepository: {
       url: "https://github.com/organization-name/repository-name.git",
       location: "./directory",

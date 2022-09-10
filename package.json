@@ -2,7 +2,7 @@
   "name": "deploy",
   "version": "1.0.0",
   "description": "Trabajo Práctico Profesional, FIUBA, 2020",
-  "repository": "git@github.com:fiuba-laboral-v2/deploy.git",
+  "repository": "git@github.com:fiuba-course-admin/deploy.git",
   "contributors": [
     "Sebastian Blanco <sebastian.e.blanco@gmail.com>",
     "Dylan Alvarez <dylanalvarez1995@gmail.com>",
@@ -23,7 +23,7 @@
     "jest": "25.5.4",
     "ts-jest": "25.5.1",
     "tslint": "5.18.0",
-    "tslint-config-fiuba-laboral-v2": "1.0.9"
+    "tslint-config-fiuba-course-admin": "1.0.9"
   },
   "scripts": {
     "check-unstaged": "bash scripts/check_unstaged.sh",
