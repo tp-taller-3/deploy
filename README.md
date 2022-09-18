@@ -1,4 +1,4 @@
-# Administrador de Cursos: deploy
+# Encuestas de Cursos: deploy
 
 Trabajo Práctico Profesional, FIUBA, 2020
 
