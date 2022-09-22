@@ -1,4 +1,4 @@
-# Administrador de Cursos: deploy
+# Encuestas de Cursos: deploy
 
 TP Taller 3, FIUBA, 2022
 
